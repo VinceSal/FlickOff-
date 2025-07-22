@@ -6,6 +6,6 @@ Spingi la palla verso la rete, cercando di evitare gli ostacoli che di livello i
 Informazioni Backend del progetto: Html/CSS: per la struttura e lo stile della pagina; Javascript: per le meccaniche di gioco e le animazioni. 
 
 Il gioco può essere eseguito sia in versione desktop sia da mobile, supportando la meccanica di tiro sia tramite mouse che touch.
-Gioca direttamente al seguente link:
+Gioca e divertiti sfidando i tuoi amici direttamente al seguente link:
 https://flickoffthegame.netlify.app
 
